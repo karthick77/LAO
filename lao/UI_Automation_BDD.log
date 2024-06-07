@@ -1,0 +1,244 @@
+2024-06-07 01:33:55,593 [INFO ] com.lao.hooks.Hooks [main] Welcome to cucumber automation
+2024-06-07 01:33:56,812 [INFO ] com.lao.steps.SwagLabValidLogin [main] URL LOGIN
+2024-06-07 01:34:01,028 [INFO ] com.lao.steps.SwagLabValidLogin [main] User Name and Password entered
+2024-06-07 01:34:05,156 [INFO ] com.lao.steps.SwagLabValidLogin [main] Login button clicked
+2024-06-07 01:34:07,220 [INFO ] com.lao.steps.SwagLabValidLogin [main] Label validation
+2024-06-07 01:34:07,239 [ERROR] com.lao.steps.SwagLabDropDown [main] no such element: Unable to locate element: {"method":"xpath","selector":"//select[@class='product_sort_containers']"}
+  (Session info: chrome=125.0.6422.142)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CF3FPRI', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\Karthick\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54511}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 918b1ffee2577f808d0d8e979519eb6b
+*** Element info: {Using=xpath, value=//select[@class='product_sort_containers']}
+2024-06-07 01:34:14,776 [INFO ] com.lao.steps.SwagLabValidLogin [main] Logout Succesfully
+2024-06-07 01:35:20,318 [INFO ] com.lao.hooks.Hooks [main] Welcome to cucumber automation
+2024-06-07 01:35:21,002 [INFO ] com.lao.steps.SwagLabValidLogin [main] URL LOGIN
+2024-06-07 01:35:25,254 [INFO ] com.lao.steps.SwagLabValidLogin [main] User Name and Password entered
+2024-06-07 01:35:29,261 [INFO ] com.lao.steps.SwagLabValidLogin [main] Login button clicked
+2024-06-07 01:35:31,327 [INFO ] com.lao.steps.SwagLabValidLogin [main] Label validation
+2024-06-07 01:35:33,445 [INFO ] com.lao.steps.SwagLabDropDown [main] Drop Down
+2024-06-07 01:35:40,764 [INFO ] com.lao.steps.SwagLabValidLogin [main] Logout Succesfully
+2024-06-07 01:36:45,823 [INFO ] com.lao.hooks.Hooks [main] Welcome to cucumber automation
+2024-06-07 01:36:46,337 [INFO ] com.lao.steps.SwagLabValidLogin [main] URL LOGIN
+2024-06-07 01:36:50,598 [INFO ] com.lao.steps.SwagLabValidLogin [main] User Name and Password entered
+2024-06-07 01:36:53,899 [INFO ] com.lao.steps.SwagLabValidLogin [main] Login button clicked
+2024-06-07 01:36:55,965 [INFO ] com.lao.steps.SwagLabValidLogin [main] Label validation
+2024-06-07 01:36:55,985 [ERROR] com.lao.steps.SwagLabDropDown [main] no such element: Unable to locate element: {"method":"xpath","selector":"//select[@class='product_sort_containerssss']"}
+  (Session info: chrome=125.0.6422.142)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CF3FPRI', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\Karthick\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54624}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 56aa2e5ae8fd2795fd5a336ee1ade079
+*** Element info: {Using=xpath, value=//select[@class='product_sort_containerssss']}
+2024-06-07 01:37:03,316 [INFO ] com.lao.steps.SwagLabValidLogin [main] Logout Succesfully
+2024-06-07 01:39:22,537 [INFO ] com.lao.hooks.Hooks [main] Welcome to cucumber automation
+2024-06-07 01:39:22,991 [INFO ] com.lao.steps.SwagLabValidLogin [main] URL LOGIN
+2024-06-07 01:39:27,228 [INFO ] com.lao.steps.SwagLabValidLogin [main] User Name and Password entered
+2024-06-07 01:39:30,893 [INFO ] com.lao.steps.SwagLabValidLogin [main] Login button clicked
+2024-06-07 01:39:32,962 [INFO ] com.lao.steps.SwagLabValidLogin [main] Label validation
+2024-06-07 01:39:32,981 [ERROR] com.lao.steps.SwagLabDropDown [main] no such element: Unable to locate element: {"method":"xpath","selector":"//select[@class='product_sort_containerssss']"}
+  (Session info: chrome=125.0.6422.142)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CF3FPRI', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\Karthick\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54739}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b555e50e3ff0b68912394dcb68589d89
+*** Element info: {Using=xpath, value=//select[@class='product_sort_containerssss']}
+2024-06-07 01:39:40,274 [INFO ] com.lao.steps.SwagLabValidLogin [main] Logout Succesfully
+2024-06-07 01:47:20,192 [INFO ] com.lao.hooks.Hooks [main] Welcome to cucumber automation
+2024-06-07 01:47:21,723 [INFO ] com.lao.steps.SwagLabValidLogin [main] URL LOGIN
+2024-06-07 01:47:25,960 [INFO ] com.lao.steps.SwagLabValidLogin [main] User Name and Password entered
+2024-06-07 01:47:30,829 [INFO ] com.lao.steps.SwagLabValidLogin [main] Login button clicked
+2024-06-07 01:47:32,898 [INFO ] com.lao.steps.SwagLabValidLogin [main] Label validation
+2024-06-07 01:54:23,229 [INFO ] com.lao.hooks.Hooks [main] Welcome to cucumber automation
+2024-06-07 01:54:23,827 [INFO ] com.lao.steps.SwagLabValidLogin [main] URL LOGIN
+2024-06-07 01:54:28,078 [INFO ] com.lao.steps.SwagLabValidLogin [main] User Name and Password entered
+2024-06-07 01:54:31,604 [INFO ] com.lao.steps.SwagLabValidLogin [main] Login button clicked
+2024-06-07 01:54:33,663 [INFO ] com.lao.steps.SwagLabValidLogin [main] Label validation
+2024-06-07 01:54:35,781 [INFO ] com.lao.steps.SwagLabDropDown [main] Drop Down
+2024-06-07 01:54:43,359 [INFO ] com.lao.steps.SwagLabValidLogin [main] Logout Succesfully
+2024-06-07 01:59:56,213 [INFO ] com.lao.hooks.Hooks [main] Welcome to cucumber automation
+2024-06-07 01:59:57,550 [INFO ] com.lao.steps.SwagLabValidLogin [main] URL LOGIN
+2024-06-07 02:00:01,774 [INFO ] com.lao.steps.SwagLabValidLogin [main] User Name and Password entered
+2024-06-07 02:00:06,362 [INFO ] com.lao.steps.SwagLabValidLogin [main] Login button clicked
+2024-06-07 02:00:08,425 [INFO ] com.lao.steps.SwagLabValidLogin [main] Label validation
+2024-06-07 02:00:10,552 [INFO ] com.lao.steps.SwagLabDropDown [main] Drop Down
+2024-06-07 02:00:17,819 [INFO ] com.lao.steps.SwagLabValidLogin [main] Logout Succesfully
+2024-06-07 02:26:29,140 [INFO ] com.lao.hooks.Hooks [main] Welcome to cucumber automation
+2024-06-07 02:26:30,346 [INFO ] com.lao.steps.SwagLabValidLogin [main] URL LOGIN
+2024-06-07 02:26:34,624 [INFO ] com.lao.steps.SwagLabValidLogin [main] User Name and Password entered
+2024-06-07 02:26:37,555 [INFO ] com.lao.steps.SwagLabValidLogin [main] Login button clicked
+2024-06-07 02:26:39,608 [INFO ] com.lao.steps.SwagLabValidLogin [main] Label validation
+2024-06-07 02:26:41,734 [INFO ] com.lao.steps.SwagLabDropDown [main] Drop Down
+2024-06-07 02:26:49,705 [INFO ] com.lao.steps.SwagLabValidLogin [main] Logout Succesfully
+2024-06-07 02:28:21,681 [INFO ] com.lao.hooks.Hooks [main] Welcome to cucumber automation
+2024-06-07 02:28:22,444 [INFO ] com.lao.steps.SwagLabValidLogin [main] URL LOGIN
+2024-06-07 02:28:26,661 [INFO ] com.lao.steps.SwagLabValidLogin [main] User Name and Password entered
+2024-06-07 02:28:30,940 [INFO ] com.lao.steps.SwagLabValidLogin [main] Login button clicked
+2024-06-07 02:28:33,020 [INFO ] com.lao.steps.SwagLabValidLogin [main] Label validation
+2024-06-07 02:28:35,160 [INFO ] com.lao.steps.SwagLabDropDown [main] Drop Down
+2024-06-07 02:28:42,470 [INFO ] com.lao.steps.SwagLabValidLogin [main] Logout Succesfully
+2024-06-07 02:28:42,572 [INFO ] com.lao.hooks.Hooks [main] Welcome to cucumber automation
+2024-06-07 02:28:42,660 [ERROR] com.lao.steps.SwagLabValidLogin [main] invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CF3FPRI', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\Karthick\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53101}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9515804a53ff697c6aad28228c13699b
+2024-06-07 02:28:42,663 [ERROR] com.lao.steps.SwagLabValidLogin [main] invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CF3FPRI', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\Karthick\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53101}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9515804a53ff697c6aad28228c13699b
+*** Element info: {Using=xpath, value=//input[@id='user-name']}
+2024-06-07 02:28:42,668 [ERROR] com.lao.steps.SwagLabValidLogin [main] invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CF3FPRI', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\Karthick\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53101}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9515804a53ff697c6aad28228c13699b
+*** Element info: {Using=xpath, value=//input[@id='user-name']}
+2024-06-07 02:28:42,674 [ERROR] com.lao.steps.SwagLabValidLogin [main] invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CF3FPRI', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\Karthick\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53101}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9515804a53ff697c6aad28228c13699b
+*** Element info: {Using=xpath, value=//input[@id='login-button']}
+2024-06-07 02:28:42,677 [ERROR] com.lao.steps.SwagLabValidLogin [main] invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CF3FPRI', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\Karthick\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53101}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9515804a53ff697c6aad28228c13699b
+*** Element info: {Using=xpath, value=//input[@id='login-button']}
+2024-06-07 02:28:42,680 [ERROR] com.lao.steps.SwagLabNotValidLogin [main] invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CF3FPRI', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\Karthick\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53101}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9515804a53ff697c6aad28228c13699b
+*** Element info: {Using=xpath, value=//h3[@data-test='error']}
+2024-06-07 02:28:42,691 [INFO ] com.lao.hooks.Hooks [main] Welcome to cucumber automation
+2024-06-07 02:28:42,695 [ERROR] com.lao.steps.SwagLabValidLogin [main] invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CF3FPRI', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\Karthick\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53101}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9515804a53ff697c6aad28228c13699b
+2024-06-07 02:28:42,698 [ERROR] com.lao.steps.SwagLabValidLogin [main] invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CF3FPRI', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\Karthick\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53101}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9515804a53ff697c6aad28228c13699b
+*** Element info: {Using=xpath, value=//input[@id='user-name']}
+2024-06-07 02:28:42,701 [ERROR] com.lao.steps.SwagLabValidLogin [main] invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CF3FPRI', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\Karthick\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53101}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9515804a53ff697c6aad28228c13699b
+*** Element info: {Using=xpath, value=//input[@id='user-name']}
+2024-06-07 02:28:42,705 [ERROR] com.lao.steps.SwagLabValidLogin [main] invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CF3FPRI', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\Karthick\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53101}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9515804a53ff697c6aad28228c13699b
+*** Element info: {Using=xpath, value=//input[@id='login-button']}
+2024-06-07 02:28:42,708 [ERROR] com.lao.steps.SwagLabValidLogin [main] invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CF3FPRI', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\Karthick\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53101}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9515804a53ff697c6aad28228c13699b
+*** Element info: {Using=xpath, value=//input[@id='login-button']}
+2024-06-07 02:28:42,711 [ERROR] com.lao.steps.SwagLabValidLogin [main] invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CF3FPRI', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\Karthick\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53101}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9515804a53ff697c6aad28228c13699b
+*** Element info: {Using=xpath, value=//div[@class='product_label']}
+2024-06-07 02:28:42,714 [ERROR] com.lao.steps.SwagLabValidLogin [main] invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CF3FPRI', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\Karthick\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53101}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9515804a53ff697c6aad28228c13699b
+*** Element info: {Using=xpath, value=//div[@class='product_label']}
+2024-06-07 02:28:42,717 [ERROR] com.lao.steps.SwagLabValidLogin [main] invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CF3FPRI', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\Karthick\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53101}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9515804a53ff697c6aad28228c13699b
+*** Element info: {Using=xpath, value=//button[contains(text(),'Open Menu')]}
+2024-06-07 02:28:42,720 [ERROR] com.lao.steps.SwagLabValidLogin [main] invalid session id
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CF3FPRI', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\Karthick\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53101}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9515804a53ff697c6aad28228c13699b
+*** Element info: {Using=xpath, value=//button[contains(text(),'Open Menu')]}
+2024-06-07 02:29:35,238 [INFO ] com.lao.hooks.Hooks [main] Welcome to cucumber automation
+2024-06-07 02:29:36,048 [INFO ] com.lao.steps.SwagLabValidLogin [main] URL LOGIN
+2024-06-07 02:29:40,295 [INFO ] com.lao.steps.SwagLabValidLogin [main] User Name and Password entered
+2024-06-07 02:29:43,584 [INFO ] com.lao.steps.SwagLabValidLogin [main] Login button clicked
+2024-06-07 02:29:45,642 [INFO ] com.lao.steps.SwagLabValidLogin [main] Label validation
+2024-06-07 02:29:47,759 [INFO ] com.lao.steps.SwagLabDropDown [main] Drop Down
+2024-06-07 02:29:55,017 [INFO ] com.lao.steps.SwagLabValidLogin [main] Logout Succesfully
+2024-06-07 02:29:55,022 [INFO ] com.lao.hooks.Hooks [main] Welcome to cucumber automation
+2024-06-07 02:29:55,054 [INFO ] com.lao.steps.SwagLabValidLogin [main] URL LOGIN
+2024-06-07 02:29:59,246 [INFO ] com.lao.steps.SwagLabValidLogin [main] User Name and Password entered
+2024-06-07 02:30:01,326 [INFO ] com.lao.steps.SwagLabValidLogin [main] Login button clicked
+2024-06-07 02:30:07,460 [INFO ] com.lao.steps.SwagLabNotValidLogin [main] Error message validation success
+2024-06-07 02:30:07,463 [INFO ] com.lao.hooks.Hooks [main] Welcome to cucumber automation
+2024-06-07 02:30:07,480 [INFO ] com.lao.steps.SwagLabValidLogin [main] URL LOGIN
+2024-06-07 02:30:11,662 [INFO ] com.lao.steps.SwagLabValidLogin [main] User Name and Password entered
+2024-06-07 02:30:13,864 [INFO ] com.lao.steps.SwagLabValidLogin [main] Login button clicked
+2024-06-07 02:30:15,923 [INFO ] com.lao.steps.SwagLabValidLogin [main] Label validation
+2024-06-07 02:30:23,123 [INFO ] com.lao.steps.SwagLabValidLogin [main] Logout Succesfully
+2024-06-07 02:41:53,952 [INFO ] com.lao.hooks.Hooks [main] Welcome to cucumber automation
+2024-06-07 02:41:55,517 [INFO ] com.lao.steps.SwagLabValidLogin [main] URL LOGIN
+2024-06-07 02:41:59,740 [INFO ] com.lao.steps.SwagLabValidLogin [main] User Name and Password entered
+2024-06-07 02:42:04,335 [INFO ] com.lao.steps.SwagLabValidLogin [main] Login button clicked
+2024-06-07 02:42:06,412 [INFO ] com.lao.steps.SwagLabValidLogin [main] Label validation
+2024-06-07 02:42:08,528 [INFO ] com.lao.steps.SwagLabDropDown [main] Drop Down
+2024-06-07 02:42:16,049 [INFO ] com.lao.steps.SwagLabValidLogin [main] Logout Succesfully
+2024-06-07 02:42:16,055 [INFO ] com.lao.hooks.Hooks [main] Welcome to cucumber automation
+2024-06-07 02:42:16,080 [INFO ] com.lao.steps.SwagLabValidLogin [main] URL LOGIN
+2024-06-07 02:42:20,288 [INFO ] com.lao.steps.SwagLabValidLogin [main] User Name and Password entered
+2024-06-07 02:42:22,368 [INFO ] com.lao.steps.SwagLabValidLogin [main] Login button clicked
+2024-06-07 02:42:28,521 [INFO ] com.lao.steps.SwagLabNotValidLogin [main] Error message validation success
+2024-06-07 02:42:28,524 [INFO ] com.lao.hooks.Hooks [main] Welcome to cucumber automation
+2024-06-07 02:42:28,543 [INFO ] com.lao.steps.SwagLabValidLogin [main] URL LOGIN
+2024-06-07 02:42:32,737 [INFO ] com.lao.steps.SwagLabValidLogin [main] User Name and Password entered
+2024-06-07 02:42:34,867 [INFO ] com.lao.steps.SwagLabValidLogin [main] Login button clicked
+2024-06-07 02:42:36,936 [INFO ] com.lao.steps.SwagLabValidLogin [main] Label validation
+2024-06-07 02:42:44,148 [INFO ] com.lao.steps.SwagLabValidLogin [main] Logout Succesfully
+2024-06-07 03:18:12,338 [INFO ] com.lao.hooks.Hooks [main] Welcome to cucumber automation
+2024-06-07 03:18:13,709 [INFO ] com.lao.steps.SwagLabValidLogin [main] URL LOGIN
+2024-06-07 03:18:17,956 [INFO ] com.lao.steps.SwagLabValidLogin [main] User Name and Password entered
+2024-06-07 03:18:22,576 [INFO ] com.lao.steps.SwagLabValidLogin [main] Login button clicked
+2024-06-07 03:18:24,661 [INFO ] com.lao.steps.SwagLabValidLogin [main] Label validation
+2024-06-07 03:18:26,781 [INFO ] com.lao.steps.SwagLabDropDown [main] Drop Down
+2024-06-07 03:18:34,485 [INFO ] com.lao.steps.SwagLabValidLogin [main] Logout Successfully
+2024-06-07 03:18:34,496 [INFO ] com.lao.hooks.Hooks [main] Welcome to cucumber automation
+2024-06-07 03:18:34,535 [INFO ] com.lao.steps.SwagLabValidLogin [main] URL LOGIN
+2024-06-07 03:18:38,725 [INFO ] com.lao.steps.SwagLabValidLogin [main] User Name and Password entered
+2024-06-07 03:18:40,797 [INFO ] com.lao.steps.SwagLabValidLogin [main] Login button clicked
+2024-06-07 03:18:46,956 [INFO ] com.lao.steps.SwagLabNotValidLogin [main] Error message validation success
+2024-06-07 03:18:46,959 [INFO ] com.lao.hooks.Hooks [main] Welcome to cucumber automation
+2024-06-07 03:18:46,980 [INFO ] com.lao.steps.SwagLabValidLogin [main] URL LOGIN
+2024-06-07 03:18:51,157 [INFO ] com.lao.steps.SwagLabValidLogin [main] User Name and Password entered
+2024-06-07 03:18:53,268 [INFO ] com.lao.steps.SwagLabValidLogin [main] Login button clicked
+2024-06-07 03:18:55,326 [INFO ] com.lao.steps.SwagLabValidLogin [main] Label validation
+2024-06-07 03:19:02,536 [INFO ] com.lao.steps.SwagLabValidLogin [main] Logout Successfully
